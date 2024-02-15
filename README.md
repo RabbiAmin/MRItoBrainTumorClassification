@@ -1,0 +1,2 @@
+# MRItoBrainTumorClassification
+JU MSc Project 
